@@ -27,5 +27,23 @@ a {
 }
 
 
+img {
+    display: block;
+    height: 20%;
+    border-color: lightseagreen;
+    margin-bottom: .5em;
+}
 
+.subheading {
+    border-bottom: solid 2px red;
+}
+
+header, img, article {
+    border-radius: 0.75em;
+    box-shadow: 60px -16px teal;
+}
+
+header, article {
+    padding: .5em;
+}
 
